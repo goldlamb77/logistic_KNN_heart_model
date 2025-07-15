@@ -14,7 +14,8 @@ To use the dataset given to perform logistic and K nearest neighbor models to pr
   
 ## Key Features
 - Scatterplots
-- Linear regression
+- Logistic regression
+- K Nearest Neighbor
 - confusion matrices
 - accuracy score
 
